@@ -1,0 +1,74 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dca.kissr.com" resolutions="1x" timestamp="1462041932775">
+  <folder name="css">
+    <file name="site_global.css" crc="460476620"/>
+    <file name="index.css" crc="4139934537" ref="index"/>
+    <file name="contact.css" crc="4122537990" ref="contact"/>
+    <file name="art.css" crc="11194289" ref="art"/>
+    <file name="iefonts_art.css" crc="334792427" ref="art"/>
+    <file name="science.css" crc="4117270924" ref="science"/>
+    <file name="master_master-blue.css" crc="3764187602" ref="art"/>
+    <file name="master_master-red.css" crc="3979177444" ref="science:contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:contact:science:art"/>
+    <file name="museutils.js" crc="275725342" ref="index:contact:science:art"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:contact:science:art"/>
+    <file name="pie.js" crc="3827607177" ref="index:science:art:contact"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="contact:science:art"/>
+    <file name="html5shiv.js" crc="4241844378" ref="contact:science:art"/>
+    <file name="webpro.js" crc="3883484123" ref="science"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="science"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted svg 52596x53.svg" crc="4155640582" ref="science"/>
+    <file name="pasted svg 52596x53_poster_.png" crc="3838453749" ref="science"/>
+    <file name="pasted svg 3788x40.svg" crc="3905940641" ref="science"/>
+    <file name="pasted svg 3788x40_poster_.png" crc="95024873" ref="science"/>
+    <file name="pasted svg 35366x32.svg" crc="235547265" ref="science"/>
+    <file name="pasted svg 35366x32_poster_.png" crc="4082344944" ref="science"/>
+    <file name="pasted svg 37074x37.svg" crc="477296506" ref="science"/>
+    <file name="pasted svg 37074x37_poster_.png" crc="192476869" ref="science"/>
+    <file name="pasted svg 39998x25.svg" crc="4011307952" ref="art"/>
+    <file name="pasted svg 39998x25_poster_.png" crc="4165090997" ref="art"/>
+    <file name="untitled-1.png" crc="4231729736" ref="art"/>
+    <file name="pasted svg 4019x26.svg" crc="3758476313" ref="contact"/>
+    <file name="pasted svg 4019x26_poster_.png" crc="389021523" ref="contact"/>
+    <file name="pasted svg 18777x39.svg" crc="345610658" ref="contact"/>
+    <file name="pasted svg 18777x39_poster_.png" crc="376305307" ref="contact"/>
+    <file name="pasted svg 42381x34.svg" crc="536554786" ref="contact"/>
+    <file name="pasted svg 42381x34_poster_.png" crc="401112949" ref="contact"/>
+    <file name="pasted svg 44252x44.svg" crc="37816489" ref="art"/>
+    <file name="pasted svg 44252x44_poster_.png" crc="275784954" ref="art"/>
+    <file name="pasted svg 42426x36.svg" crc="4165496718" ref="index:art:contact:science"/>
+    <file name="pasted svg 42426x36_poster_.png" crc="4153285595" ref="index:art"/>
+    <file name="home-favicon.ico" crc="386765394" ref="index"/>
+    <file name="pasted svg 150628x150.svg" crc="268969463" ref="science"/>
+    <file name="pasted svg 150628x150_poster_.png" crc="3814377883" ref="science"/>
+    <file name="pasted svg 151596x151.svg" crc="382796165" ref="science"/>
+    <file name="pasted svg 151596x151_poster_.png" crc="535395253" ref="science"/>
+    <file name="pasted svg 190493x155.svg" crc="361476194" ref="science"/>
+    <file name="pasted svg 190493x155_poster_.png" crc="454660943" ref="science"/>
+    <file name="pasted svg 151876x151.svg" crc="479208586" ref="science"/>
+    <file name="pasted svg 151876x151_poster_.png" crc="221388816" ref="science"/>
+    <file name="science-favicon.ico" crc="386765394" ref="science"/>
+    <file name="pasted svg 6446x46.svg" crc="4128751797" ref="index"/>
+    <file name="pasted svg 6446x46_poster_.png" crc="224531754" ref="index"/>
+    <file name="pasted svg 64283x46.svg" crc="331206317" ref="index"/>
+    <file name="pasted svg 64283x46_poster_.png" crc="179043797" ref="index"/>
+    <file name="pasted svg 64283x462.svg" crc="169438810" ref="index"/>
+    <file name="pasted svg 64283x46_poster_2.png" crc="3940316361" ref="index"/>
+    <file name="master-blue-favicon.ico" crc="386765394" ref="art"/>
+    <file name="banner_puerto-crop-u3548.jpg" crc="4196234913" ref="art"/>
+    <file name="arrow.png" crc="3979764091" seo="true" ref="art:science"/>
+    <file name="master-red-favicon.ico" crc="386765394" ref="contact"/>
+    <file name="banner_plon-crop-u3598.jpg" crc="4048911295" ref="contact"/>
+    <file name="pasted svg 42426x362.svg" crc="123859820" ref="contact"/>
+    <file name="pasted svg 42426x36_poster_2.png" crc="387411849" ref="contact"/>
+    <file name="banner_seoul-crop-u3496.jpg" crc="351190060" ref="science"/>
+    <file name="banner_korea-crop-u3901.jpg" crc="3833015355" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4182074424" seo="true" mt="1462041817305" redirect="true"/>
+  <file name="contact.html" crc="356526226" seo="true" mt="1462037791040" redirect="true"/>
+  <file name="science.html" crc="4273019918" seo="true" mt="1462037791040" redirect="true"/>
+  <file name="art.html" crc="45434920" seo="true" mt="1462037783583" redirect="true"/>
+</manifest>
